@@ -4,7 +4,7 @@
 		module="reconfigurable-dnn-chisel_2.11"
 		revision="3.1.0"
 		status="integration"
-		publication="20180826233224"
+		publication="20180827092620"
 	>
 		<description>
 		Reconfigurable-DNN-Chisel

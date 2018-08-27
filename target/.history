@@ -2,3 +2,6 @@ testOnly mul.Mul
 testOnly Mul 
 testOnly MulSpec
 testOnly mul.MulSpec
+consloe 
+console 
+testOnly mul.MulSpec
