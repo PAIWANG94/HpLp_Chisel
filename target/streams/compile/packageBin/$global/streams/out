@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/paiche/HpLp_Chisel/target/scala-2.11/reconfigurable-dnn-chisel_2.11-3.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GCD$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/paiche/HpLp_Chisel/target/scala-2.11/classes/gcd/GCD$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GCD$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/paiche/HpLp_Chisel/target/scala-2.11/classes/gcd/GCD$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GCD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/paiche/HpLp_Chisel/target/scala-2.11/classes/gcd/GCD.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GCD$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/paiche/HpLp_Chisel/target/scala-2.11/classes/gcd/GCD$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GCD$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/paiche/HpLp_Chisel/target/scala-2.11/classes/gcd/GCD$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GCD$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/paiche/HpLp_Chisel/target/scala-2.11/classes/gcd/GCD$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd/GCD$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/paiche/HpLp_Chisel/target/scala-2.11/classes/gcd/GCD$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gcd[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/paiche/HpLp_Chisel/target/scala-2.11/classes/gcd[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

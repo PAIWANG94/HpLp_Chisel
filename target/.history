@@ -5,3 +5,5 @@ testOnly mul.MulSpec
 consloe 
 console 
 testOnly mul.MulSpec
+console 
+testOnly Matrix 
