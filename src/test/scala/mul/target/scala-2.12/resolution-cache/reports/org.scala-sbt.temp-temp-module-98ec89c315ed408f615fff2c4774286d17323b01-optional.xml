@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
 <ivy-report version="1.0">
 	<info
-		organisation="default"
-		module="mul_2.12"
-		revision="0.1.0-SNAPSHOT"
+		organisation="org.scala-sbt.temp"
+		module="temp-module-98ec89c315ed408f615fff2c4774286d17323b01"
+		revision="1.2.1"
 		conf="optional"
-		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		confs="compile, runtime, test, provided, optional"
 		date="20180905114737"/>
 	<dependencies>
 	</dependencies>
